@@ -64,6 +64,11 @@ Stuffy Guy            82        72        110       105
 Little Old Lady       82        32        145       145
 Extra-Terrestrial    100        64        150       200
 SAM                   72        64        128       128
+Tiny SAM                   72        16        128       128
+Better SAM                   72        255        128       128
+Absolute Neverfinity                 72        0        0       0
+The Toxicaion                 72        255        128       255
+Glitchy Guy                  100        30        215       145
 ```
 
 ## Original docs.
